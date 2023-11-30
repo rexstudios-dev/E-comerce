@@ -1,0 +1,89 @@
+[
+    {
+        "id" : 1,
+        "name" : "Buzo Oversize ",
+        "category": "Buzo",
+        "image": "https://libur.com.co/cdn/shop/products/IMG_8736.jpg?v=1677960377",
+        "price": 142000,
+        "stock": 14
+    },
+    {
+        "id" : 2,
+        "name" : "Remera oversize offwhite x nike",
+        "category": "Remera",
+        "image": "https://media.karousell.com/media/photos/products/2022/12/26/offwhite_x_nike_005_biege_tee_1672071719_a9bd5d19_progressive.jpg",
+        "price": 42000,
+        "stock": 21
+    },
+    {
+        "id" : 3,
+        "name" : "Jean recto levis",
+        "category": "Pantalones",
+        "image": "https://hmperu.vtexassets.com/arquivos/ids/3788170/Regular-Jeans---Azul-denim-claro---H-M-PE.jpg?v=638265673275130000",
+        "price": 30000,
+        "stock": 31
+    },
+    {
+        "id" : 4,
+        "name" : "Gorra supreme",
+        "category": "Gorras",
+        "image": "https://images.stockx.com/images/Supreme-Griffin-Camp-Cap-Black.jpg?fit=fill&bg=FFFFFF&w=480&h=320&fm=jpg&auto=compress&dpr=2&trim=color&updated_at=1668702714&q=60",
+        "price": 22300,
+        "stock": 5
+    },{
+        "id" : 5,
+        "name" : "Buzo drew",
+        "category": "Buzo",
+        "image": "https://images.stockx.com/images/drew-house-mascot-hoodie-hoodie-ink.jpg?fit=fill&bg=FFFFFF&w=1200&h=857&fm=jpg&auto=compress&dpr=2&trim=color&updated_at=1632507575&q=60",
+        "price": 45300,
+        "stock": 26
+    },
+    {
+        "id" : 6,
+        "name" : "Hoodie essentials",
+        "category": "Buzo",
+        "image": "https://acdn.mitiendanube.com/stores/953/334/products/30-12-2020_mo_192ho202001f_1_11-5dadda0164172f41c516633543412291-640-0.jpg",
+        "price": 118000,
+        "stock": 2
+    },{
+        "id" : 7,
+        "name" : "Zapatillas nike x off white dunk low Lot 16",
+        "category": "Zapatillas",
+        "image": "https://cdn-images.farfetch-contents.com/17/66/80/00/17668000_36957654_600.jpg",
+        "price": 220500,
+        "stock": 9
+    },
+    {
+        "id" : 8,
+        "name" : "Remera Oversize Crop zara",
+        "category": "Remera",
+        "image": "https://static.zara.net/photos///2023/I/0/1/p/3641/821/712/2/w/824/3641821712_6_1_1.jpg?ts=1693551972439",
+        "price": 32000,
+        "stock": 181
+    },{
+        "id" : 9,
+        "name" : "Adidas x bad bunny",
+        "category": "Zapatillas",
+        "image": "https://media.gq.com.mx/photos/622a1fb6ea1d03f2815e73b9/1:1/w_1687,h_1687,c_limit/adidas-x-bad-bunny-2022-tenis-response-cl-fecha-de-lanzamiento-donde-comprarlos-precio.jpg",
+        "price": 440000,
+        "stock": 21
+    },
+    {
+           "id": 10,
+           "name": "Campera de cuero",
+           "price": 99999,
+           "category":"Camperas",
+           "image": "https://mlstaticquic-a.akamaihd.net/campera-en-cuero-kore-para-motociclista-estilo-retro-D_NQ_NP_760721-MLU32028875328_082019-F.jpg",
+           "stock" : 31
+      
+       },
+       {
+           "id": 11,
+           "name": "Camisa hawaiana",
+           "price": 9000,
+           "image": "https://th.bing.com/th/id/OIP.jP8zWhpTCuBEFk1jPXT94QHaJ4?rs=1&pid=ImgDetMain",
+           "category":"Camisa",
+           "stock": 53
+   }
+ 
+ ]

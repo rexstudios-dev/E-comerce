@@ -1,0 +1,20 @@
+.bg-azul{background-color: #133c55;}
+.blanco{color: white;}
+
+/* carrusel */
+.altura-carrusel{height: 400px;
+      object-fit: cover;
+      border-radius: 20px;
+}
+.centro{margin: auto;
+ margin-top: 30px ;}
+ .centrado{margin: auto;
+ width: 38%;
+ }
+ .borde{border-radius: 10px;}
+ .altura{height: 250px;
+   object-fit: cover;
+ }
+ .sin-link{text-decoration: none;}
+
+
